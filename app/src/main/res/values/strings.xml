@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidNotificationExam20</string>
+    <string name="btn_show_notif">Показать уведомления</string>
+    <string name="txt_secret">Вы узнали секрет</string>
+</resources>
